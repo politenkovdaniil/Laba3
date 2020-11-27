@@ -1,0 +1,40 @@
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2Tests.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2Tests.pdb
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.csprojAssemblyReference.cache
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.csproj.CopyComplete
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.dll
+C:\Users\Mарина\source\repos\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.pdb
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2Tests.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2Tests.pdb
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.csprojAssemblyReference.cache
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.csproj.CopyComplete
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.dll
+C:\Users\Mарина\OneDrive\Рабочий стол\готовая работа1\WindowsFormsApp2Tests\obj\Debug\WindowsFormsApp2Tests.pdb
